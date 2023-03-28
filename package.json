@@ -1,0 +1,23 @@
+{
+  "name": "advanced_js_modules",
+  "version": "1.0.0",
+  "description": "js-modules",
+  "main": "./src/index.html",
+  "scripts": {
+    "start": "http-server ./src",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BorisKaminskiy/advanced_js_modules.git"
+  },
+  "author": "Boris Kaminskiy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BorisKaminskiy/advanced_js_modules/issues"
+  },
+  "homepage": "https://github.com/BorisKaminskiy/advanced_js_modules#readme",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
