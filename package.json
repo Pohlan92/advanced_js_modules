@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BorisKaminskiy/advanced_js_modules.git"
+    "url": "git+https://github.com/Pohlan92/advanced_js_modules.git"
   },
-  "author": "Boris Kaminskiy",
+  "author": "Pohlan92",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/BorisKaminskiy/advanced_js_modules/issues"
+    "url": "https://github.com/Pohlan92/advanced_js_modules/issues"
   },
-  "homepage": "https://github.com/BorisKaminskiy/advanced_js_modules#readme",
+  "homepage": "https://github.com/Pohlan92/advanced_js_modules#readme",
   "devDependencies": {
     "http-server": "^14.1.1"
   }
